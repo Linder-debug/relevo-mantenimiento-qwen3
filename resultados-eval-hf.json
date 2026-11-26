@@ -1,0 +1,19 @@
+{
+  "fuente": "evaluar.py --split eval --comparison comparison.json (26-nov-2026)",
+  "base_output": {
+    "f1_micro": 0.0,
+    "coincidencias": 0,
+    "esperados": 41,
+    "cierres_falsos": 7,
+    "salidas_ilegibles": 7
+  },
+  "finetuned_output": {
+    "f1_micro": 0.8372,
+    "precision_micro": 0.8,
+    "exhaustividad_micro": 0.878,
+    "coincidencias": 36,
+    "cierres_falsos": 1,
+    "estado_exacto_sobre_coincidentes": 0.8333,
+    "cita_literal_sobre_predichos": 0.9333
+  }
+}
