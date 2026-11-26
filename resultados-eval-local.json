@@ -1,0 +1,10 @@
+{
+  "fuente": "evaluar.py sobre salidas laptop GGUF Q4_K_M (26-nov-2026)",
+  "f1_micro": 0.6234,
+  "precision_micro": 0.6667,
+  "exhaustividad_micro": 0.5854,
+  "coincidencias": 24,
+  "cierres_falsos": 9,
+  "notas_con_cierre_falso": 8,
+  "salidas_ilegibles": 2
+}
