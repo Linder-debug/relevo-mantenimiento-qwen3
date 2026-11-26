@@ -1,0 +1,10 @@
+Extractor de pendientes de notas de turno (modelo ajustado)
+Copyright 2026 Linder Lopez
+
+Este producto incluye un modelo ajustado a partir de Qwen3-1.7B de Qwen,
+licenciado bajo Apache License 2.0
+(https://huggingface.co/Qwen/Qwen3-1.7B).
+
+Incluye herramientas reutilizadas del starter "finetune-anywhere"
+(MIT, Copyright (c) 2026 M Junaid): formato de receta, configuración de
+entrenamiento y script de validación.
